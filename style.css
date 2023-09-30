@@ -222,12 +222,13 @@ a {
 }
 
 /* responsive */
-@media only screen and (max-width: 600px) and (min-width: 350px) {
+
+@media only screen and (min-width: 360px) and (max-width: 900px) {
   .headSecTab {
     display: none;
   }
   .headSec {
-    gap: 25px;
+    gap: 3px;
   }
   .headContent h1 {
     font-size: 20px;
@@ -303,9 +304,9 @@ a {
   .namelbl {
     margin: 0;
   }
-  .end {
+  /* .end {
     margin-bottom: 90px;
-  }
+  } */
   .mediaAdrs {
     text-align: end;
     margin-left: 115px;
@@ -314,6 +315,6 @@ a {
     display: none;
   }
   #hindi {
-    width: 357px;
+    width: 341px;
   }
 }
