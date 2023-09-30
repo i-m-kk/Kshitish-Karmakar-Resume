@@ -220,3 +220,184 @@ a {
 .scrlMrgnSec3 {
   scroll-margin: 500px;
 }
+
+/* responsive */
+/* @media (max-width: 575px) {
+  .headSecTab {
+    display: none;
+  }
+  .headSec {
+    gap: 25px;
+  }
+  .headContent h1 {
+    font-size: 20px;
+  }
+  .headContent {
+    gap: 5px;
+  }
+  .workExpSec h1 {
+    font-size: 28px;
+    margin-bottom: 10;
+  }
+  .jobSec {
+    height: 230px;
+    gap: 5px;
+  }
+  .jobSecLogo img {
+    height: 120px;
+  }
+  .jobSecContent {
+    align-items: flex-end;
+    gap: 2px;
+  }
+  .jobSecContent h2 {
+    font-size: 15px;
+  }
+  .mediaDrug,
+  .mediaNorthcity,
+  .mediaMicrosys {
+    align-items: flex-end;
+  }
+  .mediaRenaissance,
+  .mediaGds,
+  .mediaVassio {
+    align-items: flex-start;
+  }
+  .techSkillSec h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+  }
+  .spanCollection {
+    align-items: flex-start;
+    font-size: 18px;
+    line-height: 45px;
+  }
+  .academicSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .tebContainer {
+    font-size: 20px;
+    text-align: center;
+  }
+  .asoSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .langSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .prsnlInfoSec {
+    margin-bottom: 30px;
+  }
+  .prsnlInfoSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .flexy {
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin: 0 4px;
+  }
+  .namelbl {
+    margin: 0;
+  }
+  .end {
+    margin-bottom: 100px;
+  }
+  .mediaAdrs {
+    text-align: end;
+    margin-left: 115px;
+  }
+} */
+
+@media only screen and (max-width: 600px) and (min-width: 350px) {
+  .headSecTab {
+    display: none;
+  }
+  .headSec {
+    gap: 25px;
+  }
+  .headContent h1 {
+    font-size: 20px;
+  }
+  .headContent {
+    gap: 5px;
+  }
+  .workExpSec h1 {
+    font-size: 28px;
+    margin-bottom: 10;
+  }
+  .jobSec {
+    height: 230px;
+    gap: 5px;
+  }
+  .jobSecLogo img {
+    height: 120px;
+  }
+  .jobSecContent {
+    align-items: flex-end;
+    gap: 2px;
+  }
+  .jobSecContent h2 {
+    font-size: 15px;
+  }
+  .mediaDrug,
+  .mediaNorthcity,
+  .mediaMicrosys {
+    align-items: flex-end;
+  }
+  .mediaRenaissance,
+  .mediaGds,
+  .mediaVassio {
+    align-items: flex-start;
+  }
+  .techSkillSec h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+  }
+  .spanCollection {
+    align-items: flex-start;
+    font-size: 18px;
+    line-height: 45px;
+  }
+  .academicSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .tebContainer {
+    font-size: 20px;
+    text-align: center;
+  }
+  .asoSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .langSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .prsnlInfoSec {
+    margin-bottom: 30px;
+  }
+  .prsnlInfoSec h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .flexy {
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin: 0 4px;
+  }
+  .namelbl {
+    margin: 0;
+  }
+  .end {
+    margin-bottom: 324px;
+  }
+  .mediaAdrs {
+    text-align: end;
+    margin-left: 115px;
+  }
+}
